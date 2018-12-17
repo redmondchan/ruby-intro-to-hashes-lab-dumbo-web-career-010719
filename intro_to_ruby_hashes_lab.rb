@@ -1,4 +1,7 @@
 def new_hash
+	new = {}
+	new
+	
 
 end
 
